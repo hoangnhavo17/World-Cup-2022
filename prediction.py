@@ -1,5 +1,4 @@
 import pandas as pd
-import pickle
 from scipy.stats import poisson
 import re
 import matplotlib.pyplot as plt
